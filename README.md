@@ -1,2 +1,3 @@
 # Tic-tac-toe.js
-Try
+Try, how do I make this as an apk?
+Just a beginner, sorry.
